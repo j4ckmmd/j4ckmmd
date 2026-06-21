@@ -20,14 +20,17 @@ Echa un vistazo a mi blog: [https://j4ckmmd.github.io](https://j4ckmmd.github.io
 
 <div>
 
-![NestJs Badge](https://img.shields.io/badge/NestJs-4479A1?logo=nestjs&logoColor=fff&style=flat)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat)
 ![Express Badge](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=flat)
-![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![DigitalOcean Badge](https://img.shields.io/badge/Digitalocean-4479A1?logo=digitalocean&logoColor=fff&style=flat)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4479A1?logo=googlecloud&logoColor=fff&style=flat)
-![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-4479A1?logo=cloudflare&logoColor=fff&style=flat)
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
+![OpenSearch Badge](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=fff&style=flat)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
 
 </div>
 

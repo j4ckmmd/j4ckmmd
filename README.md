@@ -1,7 +1,7 @@
 ## ¡Hola! 👋 Soy Duberly, pero puedes llamarme Du
 
 🚀 **Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
-💻 Especializado en **desarrollo back-end**, utilizando tecnologías como:
+💻 Especializado en **desarrollo backend**, utilizando tecnologías como:
 
 - NestJs, Node.js, Express, TypeScript
 - Docker, AWS

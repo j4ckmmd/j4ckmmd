@@ -3,8 +3,10 @@
 🚀 **Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
 💻 Especializado en **desarrollo backend**, utilizando tecnologías como:
 
-- NestJs, Node.js, Express, TypeScript
-- Docker, AWS
+- NestJS, Node.js, Express y TypeScript
+- PostgreSQL, OpenSearch y diseño de APIs REST
+- Docker y arquitecturas basadas en microservicios
+- AWS, Google Cloud Platform (GCP), DigitalOcean y Cloudflare
 
 🛠️ Aplico principios **SOLID** y mejores prácticas de programación, garantizando la calidad y mantenibilidad de mi código.  
 🔄 He trabajado bajo metodologías ágiles como **SCRUM** y utilizado herramientas de gestión como **Trello**.  

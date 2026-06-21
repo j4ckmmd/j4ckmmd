@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Duberly, pero puedes llamarme Du
+## ¡Hola! 👋 Soy Duberly
 
 🚀 **Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
 💻 Especializado en **desarrollo backend**, utilizando tecnologías como:

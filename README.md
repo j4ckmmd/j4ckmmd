@@ -8,10 +8,13 @@
 - Docker y arquitecturas basadas en microservicios
 - AWS, Google Cloud Platform (GCP), DigitalOcean y Cloudflare
 
-- 🏗️ Tengo experiencia diseñando aplicaciones con **arquitecturas limpias y escalables**, incluyendo **Arquitectura Hexagonal (Ports & Adapters)** y enfoques de **Vertical Slicing**, facilitando la evolución y el mantenimiento de los sistemas.
-- 🔄 He trabajado bajo metodologías ágiles como **SCRUM** y utilizado herramientas de gestión como **Trello**.
-- ✅ Reconocido por mi responsabilidad, organización, capacidad resolutiva y habilidad para **documentar de manera efectiva procesos, funcionalidades y decisiones técnicas**.
-- 🎯 **Mi objetivo es entregar soluciones eficientes y escalables.**
+🏗️ Tengo experiencia diseñando aplicaciones con **arquitecturas limpias y escalables**, incluyendo **Arquitectura Hexagonal (Ports & Adapters)** y enfoques de **Vertical Slicing**, facilitando la evolución y el mantenimiento de los sistemas.
+
+🔄 He trabajado bajo metodologías ágiles como **SCRUM** y utilizado herramientas de gestión como **Trello**.
+
+✅ Reconocido por mi responsabilidad, organización, capacidad resolutiva y habilidad para **documentar de manera efectiva procesos, funcionalidades y decisiones técnicas**.
+
+🎯 **Mi objetivo es entregar soluciones eficientes y escalables.**
 
 Echa un vistazo a mis proyectos: [https://j4ckmmd.vercel.app](https://j4ckmmd.vercel.app)  
 

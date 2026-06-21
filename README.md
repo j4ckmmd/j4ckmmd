@@ -1,25 +1,20 @@
 ## ¡Hola! 👋 Soy Duberly
 
-🚀 **Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
-💻 Especializado en **desarrollo backend**, utilizando tecnologías como:
+**Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
+Especializado en **desarrollo backend**, utilizando tecnologías como:
 
 - NestJS, Node.js, Express y TypeScript
 - PostgreSQL, OpenSearch y diseño de APIs REST
 - Docker y arquitecturas basadas en microservicios
 - AWS, Google Cloud Platform (GCP), DigitalOcean y Cloudflare
 
-🏗️ Tengo experiencia diseñando aplicaciones con **arquitecturas limpias y escalables**, incluyendo **Arquitectura Hexagonal (Ports & Adapters)** y enfoques de **Vertical Slicing**, facilitando la evolución y el mantenimiento de los sistemas.
+Tengo experiencia diseñando aplicaciones con **arquitecturas limpias y escalables**, incluyendo **Arquitectura Hexagonal (Ports & Adapters)** y enfoques de **Vertical Slicing**, facilitando la evolución y el mantenimiento de los sistemas. He trabajado bajo metodologías ágiles como **SCRUM** y utilizado herramientas de gestión como **Trello**. Reconocido por mi responsabilidad, organización, capacidad resolutiva y habilidad para **documentar de manera efectiva procesos, funcionalidades y decisiones técnicas**.
 
-🔄 He trabajado bajo metodologías ágiles como **SCRUM** y utilizado herramientas de gestión como **Trello**.
-
-✅ Reconocido por mi responsabilidad, organización, capacidad resolutiva y habilidad para **documentar de manera efectiva procesos, funcionalidades y decisiones técnicas**.
-
-🎯 **Mi objetivo es entregar soluciones eficientes y escalables.**
+**Mi objetivo es entregar soluciones eficientes y escalables.**
 
 Echa un vistazo a mis proyectos: [https://j4ckmmd.vercel.app](https://j4ckmmd.vercel.app)  
 
 Echa un vistazo a mi blog: [https://j4ckmmd.github.io](https://j4ckmmd.github.io/docker/databases)
-
 <div>
 
 ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat)

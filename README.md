@@ -66,7 +66,7 @@ También tengo experiencia trabajando con **SCRUM**, gestión de proyectos y doc
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" />
 </a>
 
-<a href="https://discord.com/users/duberly" target="_blank">
+<a href="https://discord.com/users/j4ckmmd" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
 </a>
 

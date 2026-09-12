@@ -6,7 +6,7 @@ Mi especialidad es el desarrollo **backend con NestJS / TypeScript**, junto con 
 
 ## 🚀 Backend & Cloud
 
-- **NestJS **
+- **NestJS**
 - **PostgreSQL · Prisma · OpenSearch**
 - **REST APIs · Microservices**
 - **Arquitectura Hexagonal · Vertical Slicing**
